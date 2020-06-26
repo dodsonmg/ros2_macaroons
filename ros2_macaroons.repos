@@ -1,0 +1,13 @@
+repositories:
+  ros2_macaroons_demo:
+    type: git
+    url: https://github.com/dodsonmg/ros2_macaroons_demo.git
+    version: master
+  macaroon_msgs:
+    type: git
+    url: https://github.com/dodsonmg/macaroon_msgs.git
+    version: master
+  libmacaroons:
+    type: git
+    url: https://github.com/dodsonmg/libmacaroons.git
+    version: master

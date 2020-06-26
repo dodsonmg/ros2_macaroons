@@ -1,0 +1,10 @@
+.vscode
+build
+install
+src
+log
+
+# files created during cheribuild build process
+.cheribuild*
+cheri_setup*
+CrossToolchain.cmake
